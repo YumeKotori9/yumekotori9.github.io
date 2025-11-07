@@ -26,6 +26,11 @@ import rehypePixelated from './src/plugins/rehype-pixelated' /* Custom plugin to
 
 // https://astro.build/config
 export default defineConfig({
+  server: {
+    port: 8000,
+    // host: true
+    allowedHosts: ['devtest.cuxim.com']
+  },
   site: siteConfig.site,
   trailingSlash: siteConfig.trailingSlashes ? 'always' : 'never',
   prefetch: true,
