@@ -158,9 +158,11 @@ const config: SiteConfig = {
   giscus: {
     repo: 'yumekotori9/yumekotori9.github.io',
     repoId: 'R_kgDOQQ5wEQ',
-    category: 'General',
-    categoryId: 'DIC_kwDOQQ5wEc4CxjMU',
+    category: 'Comments',
+    categoryId: 'DIC_kwDOQQ5wEc4CxjOL',
+    mapping: 'pathname',
     reactionsEnabled: true, // Enable reactions on post itself
+    theme: 'catppuccin_mocha',
   },
   // These are characters available for the character chat feature.
   // To add your own character, add an image file to the top-level `/public` directory
