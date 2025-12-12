@@ -1,6 +1,6 @@
 ---
 title: 'La Odisea - Rapsodia Primera'
-published: 2025-11-07
+published: 2025-11-20
 draft: false
 description: 'Notas personales de lectura del primer capítulo de la odisea.'
 tags: ['spanish', 'notes']
@@ -60,7 +60,7 @@ de él, dijo al los inmortales estas palabras:
 > o sucesión, pero también a algo situado en lo más remoto o lejano.
 > Supongo que se refiere a que están en un lugar muy alejado, en vez de
 > que sean los últimos de los hombres.
-> 
+>
 > Luego está la frase _habitan respectivamente hacia el ocaso y hacia el orto de Hiperión_,
 > esto se refiere a la concepción griega de los Etíopes. En la Antigua
 > Grecia, el término _Etíope_ se refiere a los pueblos de piel oscura
@@ -96,16 +96,16 @@ ahora Egisto lo ha pagado todo junto.
 
 > El término _númenes_ se refiere a las deidades, pero también a su
 > voluntad o poder.
-> 
-> El término _hado_ se refiere a una fuerza desconocida, que obra 
-> irresistiblemente sobre los dioses, los hombres y los sucesos, por lo 
+>
+> El término _hado_ se refiere a una fuerza desconocida, que obra
+> irresistiblemente sobre los dioses, los hombres y los sucesos, por lo
 > que su voluntad, se puede entender como la voluntad del destino, en
 > términos modernos.
 >
 > _Atrida_ se refiere a que es el hijo de _Atreo_, el padre de Agamenón,
 > lo que en este contexto indica que se refiere al mismo Agamenón.
 >
-> _Argifonte_ se refiere a que mató a Argos. En la mitología griega, 
+> _Argifonte_ se refiere a que mató a Argos. En la mitología griega,
 > _Argos Panoptes_ era un gigante de cien ojos, a quien Hermes asesinó
 > por orden de Zeus.
 >
@@ -134,7 +134,7 @@ te has airado contra él, Zeus?
 
 > _Crónida_ se refiere _hijo de Cronos_. Cronos fue el padre de Zeus, Hera
 > Poseidón, Demeter, Hestia y Hades, fue el dios más importante en la
-> antigua Grecia antes de ser encerrado en el tártaro por Zeus en el 
+> antigua Grecia antes de ser encerrado en el tártaro por Zeus en el
 > Tártaro junto con los otros titanes.
 >
 > _Atlante_ se refiere a _Atlas_ el titán al que Zeus condenó cargar sobre
