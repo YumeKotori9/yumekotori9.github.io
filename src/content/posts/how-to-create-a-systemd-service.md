@@ -3,7 +3,7 @@ title: 'How to create a systemd service'
 published: 2026-01-05
 draft: false
 description: 'Some steps on how to create a systemd service, using a minecraft server as example'
-tags: ['random']
+tags: ['tutorial', 'linux', 'systemd', 'minecraft']
 ---
 
 Hi, since some time I have rented a VPS to play with backend development
